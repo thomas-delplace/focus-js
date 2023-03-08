@@ -1,0 +1,12 @@
+{
+  "name": "focus-lib",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "DESCRIPTION",
+  "main": "focus.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas 'Zoa' Delplace",
+  "license": "MIT"
+}
