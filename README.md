@@ -47,7 +47,7 @@ This defines the FOCUS_PICTURE class that the application uses to store infos ab
 >
 >Absolute path to the file
 >
->Sets the *[this.fullPath](#fullpath-string)* value
+>Sets the *[this.fullPath](#fullpath)* value
 >
 >___
 >
@@ -59,7 +59,7 @@ This defines the FOCUS_PICTURE class that the application uses to store infos ab
 >
 >However, the raw pictures have a bigger bit depth up to 16
 >
->Sets the *[this.bytesPerSample](#bytespersample-number-1)* value
+>Sets the *[this.bytesPerSample](#bytespersample-1)* value
 
 ___
 
